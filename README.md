@@ -1,16 +1,14 @@
-## Hi there 👋
+## random skid (real)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kg5n&show_icons=true&theme=transparent&hide_border=true&text_color=CCCCCC&title_color=CCCCCC&icon_color=CCCCCC" alt="stat"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kg5n&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+</p>
 
-<!--
-**kg5n/kg5n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> [!NOTE]
+>
+> yes i can code heres prrof
+```lua
+Pirnt('hi wolrd)
+```
